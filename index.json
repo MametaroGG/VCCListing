@@ -2,7 +2,7 @@
   "name": "Mame2an Packages",
   "id": "com.mame2an.listing",
   "url": "https://mametarogg.github.io/VCCListing/index.json",
-  "author": "tyarity3@gmail.com",
+  "author": "Mametaro",
   "packages": {
     "com.mame2an.vccprojecttemplatebuilder": {
       "versions": {
