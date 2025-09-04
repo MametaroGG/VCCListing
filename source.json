@@ -3,8 +3,7 @@
   "id": "com.mame2an.listing",
   "url": "https://mametarogg.github.io/VCCListing/index.json",
   "author": "Mametaro",
-  "githubRepos": [
-    "MametaroGG/VRCTemplateBuilder"
-  ],
+  "githubRepos": ["MametaroGG/VRCTemplateBuilder"],
   "packages": []
 }
+
